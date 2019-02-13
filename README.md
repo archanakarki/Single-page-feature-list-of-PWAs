@@ -1,4 +1,5 @@
-# Single page feature list (Progressive Web Applications-1)
+# Single page feature list 
+## (Progressive Web Applications-1)
 This repository is part of my series while learning Progressive Web Applications(PWAs).
 
 It renders a single page containing features of progressive web apps viewable in no network.
