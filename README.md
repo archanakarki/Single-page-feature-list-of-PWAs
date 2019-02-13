@@ -8,7 +8,7 @@ Learnings :
 
 Addition of the code mentioned below in app.js helped to register Service Workers included in the sw.js file and run even in no Network mode. Initially, the page would display no network connection in offline state.
 
-navigator.serviceWorker.register("sw.js"); 
+`navigator.serviceWorker.register("sw.js");` 
 
 Google Chrome Developer tools (Cmd + Option + I for mac) was used for testing visibility in Offline mode.
 Testing of registration of service worker is viewable under Applications > Service Workers.
